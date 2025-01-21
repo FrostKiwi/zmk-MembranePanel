@@ -11,6 +11,6 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-MembranePanel
+    - name: membrane-panel-shield-module
       remote: frostkiwi
       revision: main
